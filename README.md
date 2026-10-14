@@ -11,6 +11,7 @@ The live site is hosted with Sites. Its existing access settings are preserved d
 - Flying keel-billed toucan and scarlet macaw, plus tree frog and jaguar models built with Three.js.
 - Layered flight feathers, procedural feather textures, gentle wing motion, and soft ground shadows.
 - Drag to rotate, zoom, reset the view, toggle daylight/evening lighting, and pause animation.
+- At close range, animals extend over text, species tabs, and panels across the viewport, while interface controls remain clickable. The scene also supports wheel zoom.
 - Automatic 360-degree rotation and an expanded stage view.
 - Keyboard controls: arrow keys rotate; `+` and `-` zoom when the scene is focused.
 - Close-up camera views, searchable species tabs, and group filters.
