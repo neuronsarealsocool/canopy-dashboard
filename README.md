@@ -2,7 +2,13 @@
 
 A minimal rainforest atlas in sage-green tones, with an open 3D stage, editorial species details, and interactive wildlife. The layout follows the Feather Atlas video reference supplied for this project.
 
-**Live dashboard:** https://canopy-rainforest-matt.neuronsarealsocool.chatgpt.site
+**Live demo dashboard:** https://canopy-rainforest-matt.neuronsarealsocool.chatgpt.site
+
+And here is my open source conversation so far:
+
+https://chatgpt.com/s/cx_6ad023f3bae08191955b6bd36bd826f3
+
+More details at https://neurons2.substack.com/p/untitled_515
 
 The live site is hosted with Sites. Its existing access settings are preserved during updates.
 
